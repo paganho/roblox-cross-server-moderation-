@@ -1,4 +1,4 @@
-# Roblox Cross-Server Moderation Engine 🛡️
+# Roblox Cross-Server Moderation 🛡️
 
 A Python script designed for Roblox community managers and safety leads. It interfaces with Roblox Open Cloud APIs (MessagingService & Datastores) to broadcast real-time moderation actions (bans, kicks, warnings) across all active game instances.
 
