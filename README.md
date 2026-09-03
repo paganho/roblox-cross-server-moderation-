@@ -15,6 +15,6 @@ A Python script designed for Roblox community managers and safety leads. It inte
 ## 📋 Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/paganho/roblox-cross-server-moderation.git](https://github.com/paganho/roblox-cross-server-moderation.git)
+   git clone https://github.com/paganho/roblox-cross-server-moderation.git(https://github.com/paganho/roblox-cross-server-moderation.git)
    cd roblox-cross-server-moderation
 
